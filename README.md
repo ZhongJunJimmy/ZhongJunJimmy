@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Jimmy.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiguanTw)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **xiguanTw/xiguanTw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
