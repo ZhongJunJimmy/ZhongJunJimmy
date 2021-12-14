@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Jimmy.
+- 💎 https://zhongjunjimmy.github.io 🙋 You can find me via my personal page
+- 🌱 I’m currently learning React, pyTorch etc.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiguanTw)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ZhongJunJimmy)
 
 <!--
-**xiguanTw/xiguanTw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZhongJunJimmy/ZhongJunJimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
