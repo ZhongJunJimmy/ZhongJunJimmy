@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Jimmy.
 - 💎 https://zhongjunjimmy.github.io 🙋 You can find me via my personal page
-- 🌱 I’m currently learning React, pyTorch etc.
+- 🌱 I’m currently learning React and pyTorch.
+- 🔭 I’m currently working on most programming language.
+- 💬 Ask me about anything, whenever I can I'll help you.
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ZhongJunJimmy&count_private=true&show_icons=true&hide_border=true&text_color=FFFFFF&title_color=FE428E&icon_color=F8D847&bg_color=111344&cache_seconds=86400&local=zh-tw&show_owner=true" width="410"/>
