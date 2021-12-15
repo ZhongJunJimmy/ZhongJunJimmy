@@ -2,7 +2,10 @@
 - 💎 https://zhongjunjimmy.github.io 🙋 You can find me via my personal page
 - 🌱 I’m currently learning React, pyTorch etc.
 
-![](https://github-readme-stats.vercel.app/api?username=ZhongJunJimmy&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)(https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ZhongJunJimmy&count_private=true&show_icons=true&hide_border=true&text_color=FFFFFF&title_color=FE428E&icon_color=F8D847&bg_color=111344&cache_seconds=86400&local=zh-tw&show_owner=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongJunJimmy&layout=compact&count_private=true&show_icons=true&hide_border=true&text_color=FFFFFF&title_color=FE428E&icon_color=F8D847&bg_color=111344&cache_seconds=86400&local=zh-tw&show_owner=true" width="342" />
+</p>
 
 <!--
 **ZhongJunJimmy/ZhongJunJimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
