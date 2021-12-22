@@ -11,8 +11,6 @@
 - 🔭 I’m currently working on most programming language.
 - 💬 Ask me about anything, whenever I can I'll help you.
 
-
-![Metrics](https://metrics.lecoq.io/ZhongJunJimmy?template=classic&config.timezone=Asia%2FTaipei)
 <!--
 **ZhongJunJimmy/ZhongJunJimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
