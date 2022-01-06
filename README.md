@@ -7,7 +7,7 @@
 
 
 - 💎 https://zhongjunjimmy.github.io 🙋 You can find me via my personal page
-- 🌱 I’m currently learning React and pyTorch.
+- 🌱 I’m currently learning Javascript, NodeJS, React and pyTorch.
 - 🔭 I’m currently working on most programming language.
 - 💬 Ask me about anything, whenever I can I'll help you.
 
