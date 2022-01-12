@@ -1,18 +1,19 @@
-<h1 align="center">Hi there 👋, I'm Jimmy.</h1>
-<p align="left">
+<h2 align="center">Hey, I'm Jimmy. I'm a programmer from Taiwan</h2>
+<h3 align="center">“Protons give an atom its identity, electrons its personality.”<br/>- Bill Bryson, A short history of nearly everything</h3>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZhongJunJimmy" alt="ZhongJunJimmy" />
 <a href="https://zhongjunjimmy.github.io/"><img src="https://img.shields.io/badge/Profile-Page-brightgreen.svg" alt="Profile Page" /></a>
 </p>
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ZhongJunJimmy&count_private=true&show_icons=true&hide_border=true&text_color=FFFFFF&title_color=FE428E&icon_color=F8D847&bg_color=111344&cache_seconds=86400&local=zh-tw&show_owner=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongJunJimmy&layout=compact&count_private=true&show_icons=true&hide_border=true&text_color=FFFFFF&title_color=FE428E&icon_color=F8D847&bg_color=111344&cache_seconds=86400&local=zh-tw&show_owner=true" width="342" />
 </p>
 
-
-- 💎 https://zhongjunjimmy.github.io 🙋 You can find me via my personal page
-- 🌱 I’m currently learning Javascript, NodeJS, React and pyTorch.
-- 🔭 I’m currently working on most programming language.
-- 💬 Ask me about anything, whenever I can I'll help you.
+<p align="center">
+🌱 I’m currently learning Javascript, NodeJS, React and pyTorch.<br/>
+🔭 I’m currently working on most programming language.<br/>
+💬 Ask me about anything, whenever I can I'll help you.<br/>
+</p>
 
 <!--
 **ZhongJunJimmy/ZhongJunJimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
