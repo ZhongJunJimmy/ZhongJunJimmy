@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jimmy.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZhongJunJimmy" alt="ZhongJunJimmy" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ZhongJunJimmy" alt="ZhongJunJimmy" />
+<a href="https://zhongjunjimmy.github.io/"><img src="https://img.shields.io/badge/Profile-Page-brightgreen.svg" alt="Profile Page" /></a>
+</p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ZhongJunJimmy&count_private=true&show_icons=true&hide_border=true&text_color=FFFFFF&title_color=FE428E&icon_color=F8D847&bg_color=111344&cache_seconds=86400&local=zh-tw&show_owner=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongJunJimmy&layout=compact&count_private=true&show_icons=true&hide_border=true&text_color=FFFFFF&title_color=FE428E&icon_color=F8D847&bg_color=111344&cache_seconds=86400&local=zh-tw&show_owner=true" width="342" />
