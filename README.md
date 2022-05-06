@@ -15,6 +15,8 @@
 💬 Ask me about anything, whenever I can I'll help you.<br/>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhongJunJimmy&repo=covid-19_rapid_test_kit_tw_map&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=111344)](https://github.com/ZhongJunJimmy/covid-19_rapid_test_kit_tw_map)
+
 <!--
 **ZhongJunJimmy/ZhongJunJimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
